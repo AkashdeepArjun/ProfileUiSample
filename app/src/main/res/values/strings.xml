@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProfileUiSample</string>
+    <string name="profile_name">Akeey Wadhwa</string>
+    <string name="ui_ux_designer">UI/UX designer</string>
+</resources>
